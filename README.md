@@ -102,6 +102,7 @@ GET /api/download-flood-map – Download flood map
 
 POST /api/detect-flood-india – Detect floods specific to India
 
+demo website https://minimal-flood-detection.vercel.app/
 📄 License
 MIT
 
