@@ -14,6 +14,9 @@ This app provides tools to analyze, overlay, and visualize flood-prone areas usi
 - 🎨 Beautiful UI with Tailwind CSS
 - ⚡ Fast and scalable with App Router and TypeScript
 
+thesis and reference https://research.google/blog/a-flood-forecasting-ai-model-trained-and-evaluated-globally/
+![image](https://github.com/user-attachments/assets/f4cf59e1-39bd-4705-94a0-b400ab7a160e)
+
 ---
 
 ## 🛠️ Tech Stack
