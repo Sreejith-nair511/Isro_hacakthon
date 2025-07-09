@@ -32,20 +32,37 @@ This app provides tools to analyze, overlay, and visualize flood-prone areas usi
 flood-detection-app/
 │
 ├── app/ # Next.js App directory
+<br>
 │ ├── api/ # API routes for flood data processing
+<br>
 │ ├── globals.css # Global CSS
+<br>
 │ ├── layout.tsx # Root layout
+<br>
 │ └── page.tsx # Home page
+<br>
 │
 ├── components/ # Reusable UI & visualization components
+<br>
 │
 ├── public/ # Static assets (if any)
+<br>
 │
 ├── package.json # Project dependencies
+<br>
 ├── tailwind.config.ts # Tailwind config
+<br>
 ├── tsconfig.json # TypeScript config
+<br>
 ├── next.config.mjs # Next.js config
+<br>
 └── pnpm-lock.yaml # pnpm lock file
+<br>
+
+![image](https://github.com/user-attachments/assets/5b3e54ec-2ac1-4ede-82f2-96803ec54ffe)
+![image](https://github.com/user-attachments/assets/4c1054da-a0ea-45f0-8fac-5ba6a59f9601)
+
+
 
 
 
