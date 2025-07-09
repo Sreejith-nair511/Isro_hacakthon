@@ -109,11 +109,4 @@ MIT
 👨‍💻 Authors
 Sreejith
 
-Naresh
-
-Rohan
-
-Shreya
-
-Bhuvan
-
+rohith
