@@ -16,6 +16,10 @@ This app provides tools to analyze, overlay, and visualize flood-prone areas usi
 
 thesis and reference https://research.google/blog/a-flood-forecasting-ai-model-trained-and-evaluated-globally/
 ![image](https://github.com/user-attachments/assets/f4cf59e1-39bd-4705-94a0-b400ab7a160e)
+![image](https://github.com/user-attachments/assets/c53184f5-a868-4a48-b827-7504bad751c2)
+![image](https://github.com/user-attachments/assets/144e58d7-2c45-4689-af77-3052b8624cde)
+
+
 
 ---
 
@@ -103,6 +107,7 @@ GET /api/download-flood-map – Download flood map
 POST /api/detect-flood-india – Detect floods specific to India
 
 demo website https://minimal-flood-detection.vercel.app/
+https://forest-fire-sim.vercel.app/
 📄 License
 MIT
 
