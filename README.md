@@ -106,7 +106,7 @@ demo website https://minimal-flood-detection.vercel.app/
 📄 License
 MIT
 
-👨‍💻 Authors
+👨‍💻 Authors<br>
 Sreejith
-
+<br>
 rohith
